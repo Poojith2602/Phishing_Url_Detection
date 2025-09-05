@@ -14,7 +14,6 @@ This project extracts important characteristics from URLs (such as length, prese
 
 ## 🛠️ Tech Stack  
 - **Python**  
-- **Flask** (for web deployment)  
 - **Scikit-learn** (ML models)  
 - **Pandas, NumPy** (data handling)  
-- **Pickle/Joblib** (model storage)  
+
